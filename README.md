@@ -1,7 +1,3 @@
-Certainly! Here's a summary you can use for your GitHub repository README file:
-
----
-
 # US Road Traffic Accidents Severity Prediction
 
 ## Overview
